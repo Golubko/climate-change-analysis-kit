@@ -1,0 +1,1 @@
+remainder = originalNumber % 10;
